@@ -1,5 +1,4 @@
-# Rizky_Portofolio
-My data science project portofolio
+# Rizky Portofolio
 
 # [Project 1: Data Science Salary Estimator](https://github.com/arizkyrahman/ds_salary_project)
 - Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.

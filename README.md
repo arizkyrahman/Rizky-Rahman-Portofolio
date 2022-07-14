@@ -15,4 +15,9 @@ I was able to get the model to predict the sport of the ball with 94% accuracy a
 ![](images/matrix_results.png)
 
 # [Project 3: Twitter Sentiment Analysis](https://github.com/arizkyrahman/Twitter-Sentiment-Analysis)
-Deal with the tweets database that are avaialble to us by the Twitter. Clean the tweets and break them out into tokens and than analysis each word using Word Cloud concept and than rate each word on the basis of the score wheter it is positive, negative and neutral.
+- Deal with the tweets database that are avaialble to us by the Twitter. 
+- Clean the tweets and break them out into tokens. 
+- Analysis each word using Word Cloud concept.
+- Rate each word on the basis of the score wheter it is positive, negative and neutral.
+
+![](images/twitter_sentiment_analysis.png)

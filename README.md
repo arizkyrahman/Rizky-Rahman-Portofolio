@@ -13,11 +13,3 @@ I built a ball classifier to identify balls from different sports. This could be
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results.
 
 ![](images/matrix_results.png)
-
-# [Project 3: Twitter Sentiment Analysis](https://github.com/arizkyrahman/Twitter-Sentiment-Analysis)
-- Deal with the tweets database that are avaialble to us by the Twitter. 
-- Clean the tweets and break them out into tokens. 
-- Analysis each word using Word Cloud concept.
-- Rate each word on the basis of the score wheter it is positive, negative and neutral.
-
-![](images/twitter_sentiment_analysis.png)

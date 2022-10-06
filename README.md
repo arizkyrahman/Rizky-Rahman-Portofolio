@@ -7,7 +7,16 @@
 
 ![](/images/positions_by_state.png)
 
-# [Project 2: Scraping Rental Price]
+# [Project 2: Crawling For Inflation]
+- AWS Athena to query indexed WARC Files using HTTP header information in WARC File	
+- Keys to webpages of interest saved in parquet files on S3
+- Parquet + WARC input to Spark with distributed processing over (10 GB) data per job
+- Cleaning, filtering, and aggregating Product and Price tables with Pandas in Python.
+- Plotting and tracking price trends with Dash
+
+![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/crawler_pipeline.png?raw=true)
+
+# [Project 3: Scraping Rental Price]
 - Using a fingerprint to verify against the data lake if a property needs to be downloaded or not.
 - Placing an S3 API in front of object storage gateway-mode to stay cloud-agnostic. 
 - Adding Database features to S3 – Delta Lake & Spark

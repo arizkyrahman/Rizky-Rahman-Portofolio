@@ -7,11 +7,12 @@
 
 ![](/images/positions_by_state.png)
 
-# [Project 2: Build Data Pipeline](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-batch-edition/)
-- Set up Apache Airflow, AWS EMR, AWS Redshift, AWS Spectrum, and AWS S3.
-- Spot failure points in data pipelines and build systems resistant to failures.
+# [Project 2: Scraping Rental Price]
+- Using a fingerprint to verify against the data lake if a property needs to be downloaded or not.
+- Placing an S3 API in front of object storage gateway-mode to stay cloud-agnostic. 
+- Adding Database features to S3 – Delta Lake & Spark
 - Automatic Schema Evolution.
-- Design and build a data pipeline from business requirements.
+- Open-Source dashboarding with Apache Superset
 
 # [Project 3: Ball Image Classifier](https://github.com/arizkyrahman/ball-image-classifier)
 I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 

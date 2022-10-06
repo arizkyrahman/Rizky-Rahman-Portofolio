@@ -7,7 +7,7 @@
 
 ![](/images/positions_by_state.png)
 
-# [Project 2: Crawling For Inflation]
+# [Project 2: Crawling For Inflation](https://github.com/arizkyrahman/rizky_rahman_web_crawler_for_online_inflation)
 - AWS Athena to query indexed WARC Files using HTTP header information in WARC File	
 - Keys to webpages of interest saved in parquet files on S3
 - Parquet + WARC input to Spark with distributed processing over (10 GB) data per job

@@ -16,7 +16,7 @@
 
 ![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/crawler_pipeline.png?raw=true)
 
-# [Project 3: Scraping Rental Price]
+# Project 3: Scraping Rental Price
 - Using a fingerprint to verify against the data lake if a property needs to be downloaded or not.
 - Placing an S3 API in front of object storage gateway-mode to stay cloud-agnostic. 
 - Adding Database features to S3 – Delta Lake & Spark

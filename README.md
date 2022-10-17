@@ -24,9 +24,9 @@
 - Creation and execution of Glue jobs.
 - Creating an Analysis dashboard on Tableau
 
-![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/ETL%20Orchestration%20on%20AWS.jpg?raw=true)
+![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/redshift_etl.jpg?raw=true)
 
-# [Project 5: Crawling For Inflation](https://github.com/arizkyrahman/rizky_rahman_web_crawler_for_online_inflation)
+# [Project 4: Crawling For Inflation](https://github.com/arizkyrahman/rizky_rahman_web_crawler_for_online_inflation)
 - AWS Athena to query indexed WARC Files using HTTP header information in WARC File	
 - Keys to webpages of interest saved in parquet files on S3
 - Parquet + WARC input to Spark with distributed processing over (10 GB) data per job

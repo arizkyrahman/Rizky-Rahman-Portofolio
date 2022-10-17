@@ -7,14 +7,13 @@
 
 ![](/images/positions_by_state.png)
 
-# Project 2: Scraping Rental Price
-- Using a fingerprint to verify against the data lake if a property needs to be downloaded or not.
-- Placing an S3 API in front of object storage gateway-mode to stay cloud-agnostic. 
-- Adding Database features to S3 – Delta Lake & Spark
-- Automatic Schema Evolution.
-- Open-Source dashboarding with Apache Superset
+# Project 2: Twitter Data Pipeline
+- Extract data using Twitter API
+- Use python to transform data
+- Deploy the code on Airflow/EC2
+- Save the final result on Amazon S3
 
-![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/Scraping%20Rental%20Price_%201.jpg?raw=true)
+![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/twitter_data_pipeline.jpg?raw=true)
 
 # Project 3: ETL Orchestration on AWS
 - Understanding the working and creating a Redshift cluster

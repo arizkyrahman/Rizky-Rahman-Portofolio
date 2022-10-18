@@ -29,7 +29,6 @@
 - Setting up a Virtual Private Cloud(VPC).
 - Implementing Redshift editor connection.
 - Creation and execution of Glue jobs.
-- Creating an Analysis dashboard on Tableau
 
 ![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/redshift_etl.jpg?raw=true)
 
@@ -38,6 +37,6 @@
 - Keys to webpages of interest saved in parquet files on S3
 - Parquet + WARC input to Spark with distributed processing over (10 GB) data per job
 - Cleaning, filtering, and aggregating Product and Price tables with Pandas in Python.
-- Plotting and tracking price trends with Dash
+- Plotting and tracking price trends with Tableau
 
 ![](https://github.com/arizkyrahman/Rizky_Portofolio/blob/main/images/crawler_pipeline.png?raw=true)
